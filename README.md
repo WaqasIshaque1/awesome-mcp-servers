@@ -1,9 +1,5 @@
 # 🌐 MCP Servers Collection
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/waqas-ahmed/mcp-servers?style=social)](https://github.com/waqas-ahmed/mcp-servers)
-[![GitHub contributors](https://img.shields.io/github/contributors/waqas-ahmed/mcp-servers?style=social)](https://github.com/waqas-ahmed/mcp-servers/graphs/contributors)
-
 > A curated compilation of Model Context Protocol (MCP) servers assembled by Waqas from various sources including [ChatHub](https://chathub.gg/) and [mcpservers.org](https://mcpservers.org)
 
 <p align="center">
